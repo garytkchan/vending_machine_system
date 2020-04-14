@@ -1,4 +1,4 @@
-Project Description:
+
 
 This is a class project that implementing the system of a vending machine. It is a terminal application 
 written in Java with the implementation of various design patterns.
