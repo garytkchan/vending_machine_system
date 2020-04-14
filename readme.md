@@ -1,10 +1,9 @@
-
+# Vending Machine System
 
 This is a class project that implementing the system of a vending machine. It is a terminal application 
-written in Java with the implementation of various design patterns.
+written in Java with the implementation of various software engineering design patterns.
 
-
-
+## Design Patterns
 
 Below is a description on the responsibilities of each java class to help implementing the 
 State, Strategy and Abstract Factory patterns in this project.
