@@ -10,7 +10,7 @@ State, Strategy and Abstract Factory patterns in this project.
 
 ### State Pattern
 
-Under the State package\
+Under the State package:\
 State.java\
 MDA_EFSM.java\
 start.java\
@@ -20,9 +20,9 @@ coin_inserted.java\
 internal_data.java
 
 
-### Strategy Pattern:
+### Strategy Pattern
 
-Under the Strategy package\
+Under the Strategy package:\
 disposeAdditive.java\
 disposeAdditive_1.java\
 disposeAdditive_2.java\
